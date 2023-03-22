@@ -2,7 +2,8 @@
 
 ## To Execute
 ```
+$ cd mmfilter_FIFO_databuffer/build
 $ cmake .. 
 $ make
-$ make run  // Two output files: pirate_out.bmp &  peppers_color_out.bmp
+$ make run  // There are two output files.
 ```
