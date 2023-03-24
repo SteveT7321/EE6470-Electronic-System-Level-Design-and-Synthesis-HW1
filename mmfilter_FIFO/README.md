@@ -5,5 +5,5 @@
 $ cd mmfilter_FIFO/build
 $ cmake .. 
 $ make
-$ make run  // There wiil be two output files.
+$ make run  // There will be two output files.
 ```
